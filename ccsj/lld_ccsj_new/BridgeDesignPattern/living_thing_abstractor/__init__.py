@@ -1,0 +1,4 @@
+from living_thing_abstractor.living_thing import LivingThing
+from living_thing_abstractor.dog import Dog
+from living_thing_abstractor.fish import Fish
+from living_thing_abstractor.tree import Tree

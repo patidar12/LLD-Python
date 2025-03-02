@@ -1,0 +1,8 @@
+from file_system import FileSystem
+
+class File(FileSystem):
+    def __init__(self, name):
+        self.name = name
+
+    def ls(self):
+        print(f"file name: {self.name}")

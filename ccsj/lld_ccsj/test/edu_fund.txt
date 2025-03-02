@@ -1,0 +1,16 @@
+In detail about project. What is your responsibility.
+
+1) How kafka is dpeloyed, manged service or using AWS. Same for RabbitMQ.
+2) Kuberentes and docker. How it works. How you used it.
+3) Which one is fast. Fast Api, Django, Nodejs.
+4) I have a API that doing lot's of things like db query, file operation and computing. and taking time. How to improve performance.
+5) Threads Vs Processing. how it works in python.
+6) Which is fast to serach a text is exists or not. Dict, tuple or List (what other data structure we can create)
+7) Which data structure will take more memory. define the order and why. tuple, list, dict.
+8) I have a table name students. Need to get count of all the students that contains name is given by me. What is the query.
+  -> select count(*) form students where name=""; -> How to improve performance of this. other then indexing.
+9) What is the use of __name__="__main__" in python.
+10) What is the .pyc files in python and when and why the created.
+11) access modifiers in python. private vs protector. How to use in python.
+12)
+
